@@ -15,31 +15,54 @@ https://www.programiz.com/article/python-self-why
 
 # Use of tkinter
 Tk provides the following widgets:
-
 button
+
 canvas
+
 checkbutton
+
 combobox
+
 entry
+
 frame
+
 label
+
 labelframe
+
 listbox
+
 menu
+
 menubutton
+
 message
+
 notebook
+
 tk_optionMenu
+
 panedwindow
+
 progressbar
+
 radiobutton
+
 scale
+
 scrollbar
+
 separator
+
 sizegrip
+
 spinbox
+
 text
+
 treeview
+
 
 The following site will help a lot in this due course
 https://pythonprogramming.net/python-3-tkinter-basics-tutorial/
