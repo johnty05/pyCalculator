@@ -1,4 +1,4 @@
-# pyCalculator
+## pyCalculator
 A calculator made using PYTHON GUI. This is a small learning initiative to use Python GUI
 
 # Before proceeding ahead with the code it is very necessary to have a good idea on following topics
@@ -66,3 +66,8 @@ treeview
 
 The following site will help a lot in this due course
 https://pythonprogramming.net/python-3-tkinter-basics-tutorial/
+
+# OUTPUT
+
+![image](https://user-images.githubusercontent.com/25481890/40467662-60e53a02-5f48-11e8-92d3-c9b5630958c0.png)
+
